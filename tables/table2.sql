@@ -1,6 +1,6 @@
 use role accountadmin;
 use database dev_db;
-use schema s_git;
+use schema test;
 use warehouse compute_wh;
 
 
