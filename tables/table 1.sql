@@ -1,2 +1,2 @@
 use database dev_db;
-use role accountadmin;
+use role dev_admin;
