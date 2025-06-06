@@ -4,6 +4,9 @@ use schema test;
 use warehouse compute_wh;
 
 
+
+
+
 create table test2 (test2 varchar);
 
 
