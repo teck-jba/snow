@@ -4,4 +4,5 @@ use role accountadmin;
 
 
 
-create table test ( test varchar);
+
+create table test ( testrchar);
